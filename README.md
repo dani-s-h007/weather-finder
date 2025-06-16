@@ -11,7 +11,7 @@ Weather Finder is a simple and responsive web application that allows users to s
 
 ## Demo
 
-You can try the live demo here: [https://dani-s-h007.github.io/weather-finder](https://dani-s-h007.github.io/weather-finder)
+You can try the live demo here: [https://dani-s-h007.github.io/weather-finder](https://dani-s-h007.github.io/weather-finder/)
 
 ## Tech Stack
 
